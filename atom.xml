@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-14T16:40:13.659Z</updated>
+  <updated>2017-10-15T01:51:36.365Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,21 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>The first article</title>
+    <title>搭建博客</title>
     <link href="http://yoursite.com/2017/10/15/The-first-article/"/>
     <id>http://yoursite.com/2017/10/15/The-first-article/</id>
     <published>2017-10-14T16:37:29.000Z</published>
-    <updated>2017-10-14T16:40:13.659Z</updated>
+    <updated>2017-10-15T01:51:36.365Z</updated>
     
-    <content type="html"><![CDATA[<p>This </p>]]></content>
+    <content type="html"><![CDATA[<ul><li>遇到了deploy不上github的问题，插件也正常装了啊，后来发现是confog的格式是yml，冒号后边要加一个空格才能写内容！我晕xox </li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;This &lt;/p&gt;
+        &lt;ul&gt;
+&lt;li&gt;遇到了deploy不上github的问题，插件也正常装了啊，后来发现是confog的格式是yml，冒号后边要加一个空格才能写内容！我晕xox &lt;/li&gt;
+&lt;/ul&gt;
 
       
     
