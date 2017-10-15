@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Lry&#39;s Blog</title>
   
-  
+  <subtitle>This is Lry&#39;s blog.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-15T02:35:11.800Z</updated>
+  <updated>2017-10-15T10:40:53.787Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Lr</name>
     
   </author>
   
@@ -21,18 +21,18 @@
     <link href="http://yoursite.com/2017/10/15/The-first-article/"/>
     <id>http://yoursite.com/2017/10/15/The-first-article/</id>
     <published>2017-10-14T16:37:29.000Z</published>
-    <updated>2017-10-15T02:35:11.800Z</updated>
+    <updated>2017-10-15T10:40:53.787Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>遇到了deploy不上github的问题，插件也正常装了啊，后来发现是confog的格式是yml，冒号后边要加一个空格才能写内容！我晕xox </li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li>遇到了deploy不上github的问题，插件正常安装，后来发现是confog.yml的问题，yml格式冒号后边一定要加一个空格才行！我晕xox</li></ul><h1 id="试一下目录"><a href="#试一下目录" class="headerlink" title="试一下目录"></a>试一下目录</h1><ol><li></li><li></li><li>hhh</li></ol><h2 id="二级目录"><a href="#二级目录" class="headerlink" title="二级目录"></a>二级目录</h2>]]></content>
     
     <summary type="html">
     
       
       
         &lt;ul&gt;
-&lt;li&gt;遇到了deploy不上github的问题，插件也正常装了啊，后来发现是confog的格式是yml，冒号后边要加一个空格才能写内容！我晕xox &lt;/li&gt;
+&lt;li&gt;遇到了deploy不上github的问题，插件正常安装，后来发现是confog.yml的问题，yml格式冒号后边一定要加一个空格才行！我晕xox&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;h1 id=&quot;试一下目录&quot;&gt;&lt;a href=&quot;#试一下目录&quot; class=&quot;headerli
       
     
     </summary>
