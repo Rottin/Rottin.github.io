@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[搭建博客]]></title>
     <url>%2F2017%2F10%2F15%2FThe-first-article%2F</url>
-    <content type="text"><![CDATA[遇到了deploy不上github的问题，插件正常安装，后来发现是confog.yml的问题，yml格式冒号后边一定要加一个空格才行！我晕xox 试一下目录 hhh 二级目录]]></content>
+    <content type="text"><![CDATA[配置到需要deploy到github时，插件正常安装，输入hexo d命令，什么也没有显示。后来发现是confog.yml的问题，yml格式冒号后边一定要加一个空格才行xox 更换背景的方法：要更换的背景图片放在next主题的source/images目录下，然后修改next/source/css/_custom/custom.yml文件，添加如下代码：123body&#123; background: url(/images/background.jpg)&#125;]]></content>
       <tags>
         <tag>随笔</tag>
         <tag>日志</tag>

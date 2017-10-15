@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-15T10:40:53.787Z</updated>
+  <updated>2017-10-15T11:35:34.081Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,18 +21,19 @@
     <link href="http://yoursite.com/2017/10/15/The-first-article/"/>
     <id>http://yoursite.com/2017/10/15/The-first-article/</id>
     <published>2017-10-14T16:37:29.000Z</published>
-    <updated>2017-10-15T10:40:53.787Z</updated>
+    <updated>2017-10-15T11:35:34.081Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>遇到了deploy不上github的问题，插件正常安装，后来发现是confog.yml的问题，yml格式冒号后边一定要加一个空格才行！我晕xox</li></ul><h1 id="试一下目录"><a href="#试一下目录" class="headerlink" title="试一下目录"></a>试一下目录</h1><ol><li></li><li></li><li>hhh</li></ol><h2 id="二级目录"><a href="#二级目录" class="headerlink" title="二级目录"></a>二级目录</h2>]]></content>
+    <content type="html"><![CDATA[<ul><li>配置到需要deploy到github时，插件正常安装，输入hexo d命令，什么也没有显示。后来发现是confog.yml的问题，yml格式冒号后边一定要加一个空格才行xox</li></ul><ul><li>更换背景的方法：<br>要更换的背景图片放在next主题的source/images目录下，然后修改next/source/css/_custom/custom.yml文件，添加如下代码：<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">body&#123;</div><div class="line">   background: url(/images/background.jpg)</div><div class="line">&#125;</div></pre></td></tr></table></figure></li></ul>]]></content>
     
     <summary type="html">
     
       
       
         &lt;ul&gt;
-&lt;li&gt;遇到了deploy不上github的问题，插件正常安装，后来发现是confog.yml的问题，yml格式冒号后边一定要加一个空格才行！我晕xox&lt;/li&gt;
+&lt;li&gt;配置到需要deploy到github时，插件正常安装，输入hexo d命令，什么也没有显示。后来发现是confog.yml的问题，yml格式冒号后边一定要加一个空格才行xox&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&quot;试一下目录&quot;&gt;&lt;a href=&quot;#试一下目录&quot; class=&quot;headerli
+&lt;ul&gt;
+&lt;li&gt;更换背景的方法：&lt;br&gt;要更换的背景图片放在n
       
     
     </summary>
